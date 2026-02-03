@@ -1,0 +1,4 @@
+<a href="docs/Устав ОО СТМА.pdf" target="_blank" rel="noopener">
+  Устав ОО «СТМА» (PDF)
+</a>
+<img src="images/СОЮЗ logo.png" alt="Логотип">
